@@ -48,12 +48,16 @@ I don’t just write code, I design systems, think through architecture, and con
 * VS Code
 * Postman
 
+### Deployment
+* Supabase(PostgreSQL)
+* Vercel
+* Render
+* AWS
 
 ---
 
 ## 🚀 Current Focus
 
-* Building and refining a **Learning Management System (LMS)**
 * Improving system architecture and deployment strategies
 * Leveraging AI tools to enhance development speed and quality
 * Growing into a **high-level software engineer**, not just a coder
