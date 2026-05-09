@@ -9,7 +9,7 @@
 
 I'm a full-stack developer passionate about turning ideas into real, working systems that solve problems. I focus on building scalable, user-centered applications that are not just functional—but meaningful.
 
-I don’t just write code—I design systems, think through architecture, and continuously refine my craft to stay ahead in an evolving tech landscape driven by AI and automation.
+I don’t just write code, I design systems, think through architecture, and continuously refine my craft to stay ahead in an evolving tech landscape driven by AI and automation.
 
 ---
 
@@ -29,7 +29,7 @@ I don’t just write code—I design systems, think through architecture, and co
 
 * HTML5, CSS3, JavaScript
 * Bootstrap
-* React (learning / expanding)
+* React 
 
 ### Backend
 
@@ -47,7 +47,7 @@ I don’t just write code—I design systems, think through architecture, and co
 * Git & GitHub
 * VS Code
 * Postman
-* PM2 (for deployment)
+
 
 ---
 
