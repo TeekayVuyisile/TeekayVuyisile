@@ -35,6 +35,7 @@ I don’t just write code, I design systems, think through architecture, and con
 
 * Node.js
 * Express.js
+* WebSockets / Socket.IO
 
 ### Database
 
