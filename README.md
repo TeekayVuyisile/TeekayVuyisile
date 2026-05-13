@@ -28,7 +28,7 @@ I don’t just write code, I design systems, think through architecture, and con
 ### Frontend
 
 * HTML5, CSS3, JavaScript
-* Bootstrap
+* Bootstrap / Tailwind CSS
 * React 
 
 ### Backend
