@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I'm a full-stack developer passionate about turning ideas into real, working systems that solve problems. I focus on building scalable, user-centered applications that are not just functional—but meaningful.
+I'm a full-stack developer passionate about turning ideas into real, working systems that solve problems. I focus on building scalable, user-centered applications that are not just functional, but meaningful.
 
 I don’t just write code, I design systems, think through architecture, and continuously refine my craft to stay ahead in an evolving tech landscape driven by AI and automation.
 
@@ -29,12 +29,14 @@ I don’t just write code, I design systems, think through architecture, and con
 
 * HTML5, CSS3, JavaScript
 * Bootstrap / Tailwind CSS
-* React 
+* React
+* Next.js
 
 ### Backend
 
 * Node.js
 * Express.js
+* Python
 * WebSockets / Socket.IO
 
 ### Database
@@ -84,7 +86,7 @@ I don’t just write code, I design systems, think through architecture, and con
 
 ## ⚡ Fun Fact
 
-I’m not just learning how to code — I’m learning how to **think like an engineer**.
+I’m not just learning how to code. I’m learning how to **think like an engineer**.
 
 ---
 
