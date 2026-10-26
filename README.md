@@ -1,108 +1,53 @@
+<h1 align="center">Teekay Vuyisile Manale</h1>
 
-# 👋 Hi there, I'm Teekay Vuyisile Manale
+<p align="center">
+  Full-stack developer in South Africa. I build, test and ship web products end to end.
+</p>
 
-💻 Full-Stack Developer | 🚀 Building Scalable Digital Solutions | 🎯 Future-Focused Engineer
-
----
-
-## 🧠 About Me
-
-I'm a full-stack developer passionate about turning ideas into real, working systems that solve problems. I focus on building scalable, user-centered applications that are not just functional, but meaningful.
-
-I don’t just write code, I design systems, think through architecture, and continuously refine my craft to stay ahead in an evolving tech landscape driven by AI and automation.
-
----
-
-## ⚡ What I Do
-
-* 🔧 Build full-stack web applications from scratch
-* 🧩 Design and develop scalable systems 
-* 🎨 Create clean, intuitive user interfaces
-* 🔄 Continuously improve and refactor systems for performance
-* 🤖 Explore AI-assisted development to boost productivity
+<p align="center">
+  <a href="https://my-portfolio-eight-phi-45.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/teekay-manale/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:vuyisilemanalet24@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+I'm a Junior Full Stack Developer at the Department of Economic Development & Tourism, where I'm the sole
+developer of a real-time programme delivery dashboard that replaced spreadsheet tracking across departments.
 
-### Frontend
+Outside work I build complete products: designed, tested, containerised where it makes sense, deployed
+through CI, and live with a demo you can try in one click.
 
-* HTML5, CSS3, JavaScript
-* Bootstrap / Tailwind CSS
-* React
-* Next.js
+## Featured projects
 
-### Backend
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **[Tender Insight Hub](https://github.com/TeekayVuyisile/etender_system)**<br>[Live demo](https://tender-insight-hub.onrender.com) | SaaS that helps SMEs find public tenders, summarises 100-page bid packs with AI and scores readiness. Redis job queue and caching, 225 tests, one-command Docker Compose stack. | Python, FastAPI, React, TypeScript, PostgreSQL, MongoDB, Redis, Docker |
+| **[SPU Events](https://github.com/TeekayVuyisile/spu-events)**<br>[Live demo](https://spu-events.onrender.com) | Campus ticketing with a ledger-based wallet, signed QR tickets and gate scanning. Concurrency tests prove a ticket can't be admitted twice or oversold. | TypeScript, React, Express, Drizzle, PostgreSQL, Vitest |
+| **[RouteOps](https://github.com/TeekayVuyisile/Field-Route-Optimization-Site-Verification-System)**<br>[Live demo](https://field-route-optimization-site-verif.vercel.app) | Offline-first PWA for field teams: optimised routes, voice-guided driving and GPS-verified check-ins that sync when signal returns. 300+ tests. | React, Supabase, Leaflet, IndexedDB, Vitest |
+| **[SignConnect](https://github.com/TeekayVuyisile/SignConnect)**<br>[Live demo](https://signconnect-app.onrender.com) | Accessible video calling: peer-to-peer WebRTC with live speech captions and on-device sign recognition. | React, WebRTC, Socket.IO, MediaPipe |
+| **[EduLens LMS](https://github.com/TeekayVuyisile/edulens_mvp)**<br>[Live demo](https://edulens-lms.onrender.com) | Multi-school platform for Grade R-3: CAPS-aligned marks, parent access and AI worksheets, with school-level data isolation tested. | React, Node.js, Express, PostgreSQL, Groq |
+| **[AI Travel Planner](https://github.com/TeekayVuyisile/AI-Travel-Planner)**<br>[Live demo](https://ai-travel-assistant-cp6l.onrender.com) | Group trip planner with weather-aware AI itineraries, shared expenses and minimal settle-up payments. | React, Node.js, PostgreSQL, Groq, Leaflet |
 
-* Node.js
-* Express.js
-* Python
-* WebSockets / Socket.IO
+More on my [portfolio](https://my-portfolio-eight-phi-45.vercel.app), including
+[Mafia](https://github.com/TeekayVuyisile/mafia-game) (real-time multiplayer) and the
+[AI Mock Interview Coach](https://github.com/TeekayVuyisile/AI-Mock-Interview-Coach).
 
-### Database
+## Tech stack
 
-* MongoDB
-* PostgreSQL
-* MySQL
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,bootstrap,vite" alt="React, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Vite">
 
-### Tools & Workflow
+**Backend and data**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,redis" alt="Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Redis">
 
-* Git & GitHub
-* VS Code
-* Postman
+**DevOps and cloud**<br>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,supabase,vercel,aws" alt="Docker, GitHub Actions, Git, Supabase, Vercel, AWS">
 
-### Deployment
-* Supabase(PostgreSQL)
-* Vercel
-* Render
-* AWS
+Also: Socket.IO, WebRTC, LLM integration (Groq, Gemini), pytest, Vitest, Render.
 
----
+## How I work
 
-## 🚀 Current Focus
-
-* Improving system architecture and deployment strategies
-* Leveraging AI tools to enhance development speed and quality
-* Growing into a **high-level software engineer**, not just a coder
-
-
----
-
-## 📈 Goals
-
-* Become a top-tier full-stack engineer
-* Master system design and scalable architecture
-* Stay relevant in the age of AI-driven development
-* Build impactful software that solves real-world problems
-
----
-
-## 🤝 Let's Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/teekay-manale/
-* 📧 Email: vuyisilemanalet24@gmail.com
-
----
-
-## ⚡ Fun Fact
-
-I’m not just learning how to code. I’m learning how to **think like an engineer**.
-
----
-
-⭐ *"Code is just the tool. Problem-solving is the real skill."*
-
-<!--
-**TeekayVuyisile/TeekayVuyisile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Tested and checked in CI.** In my main projects, GitHub Actions runs tests, linting and builds on every pull request.
+- **Live and easy to try.** Every featured project is deployed, and most have a one-click demo login.
+- **Documented decisions.** Each README explains the architecture and the trade-offs behind it.
