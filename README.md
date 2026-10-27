@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  Also: Socket.IO, WebRTC, LLM integration (Groq, Gemini), pytest, Vitest, Render.
+  Also: Socket.IO, WebRTC, LLM integration, pytest, Vitest, Render.
 </p>
