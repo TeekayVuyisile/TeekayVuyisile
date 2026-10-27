@@ -1,8 +1,8 @@
 <h1 align="center">Teekay Vuyisile Manale</h1>
 
 <p align="center">
-  Junior full-stack developer from South Africa. I enjoy building complete products,
-  from the database to the interface, and shipping them live.
+  I'm a Junior Full-Stack Developer passionate about building practical, scalable web applications
+  and integrating AI-powered solutions to solve real-world problems.
 </p>
 
 <p align="center">
@@ -12,20 +12,28 @@
 </p>
 
 <p align="center">
-  <img src="assets/dev-dreams.gif" width="500" alt="Pixel-art animation of a developer at a desk late at night">
+  <img src="assets/dev-dreams.gif" width="600" alt="Pixel-art animation of a developer at a desk late at night">
   <br>
   <sub>Art: <a href="https://za.pinterest.com/pin/861946816230197834/">Dev Dreams by Rakibur Rahman</a></sub>
 </p>
 
-## Tech stack
+<h2 align="center">Tech stack</h2>
 
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,bootstrap,vite" alt="React, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Vite">
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,bootstrap,vite" alt="React, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Vite">
+</p>
 
-**Backend and data**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,redis" alt="Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Redis">
+<p align="center">
+  <b>Backend and data</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,redis" alt="Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Redis">
+</p>
 
-**DevOps and cloud**<br>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,supabase,vercel,aws" alt="Docker, GitHub Actions, Git, Supabase, Vercel, AWS">
+<p align="center">
+  <b>DevOps and cloud</b><br>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,supabase,vercel,aws" alt="Docker, GitHub Actions, Git, Supabase, Vercel, AWS">
+</p>
 
-Also: Socket.IO, WebRTC, LLM integration (Groq, Gemini), pytest, Vitest, Render.
+<p align="center">
+  Also: Socket.IO, WebRTC, LLM integration (Groq, Gemini), pytest, Vitest, Render.
+</p>
