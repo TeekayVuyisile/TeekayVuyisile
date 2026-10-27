@@ -33,6 +33,7 @@ More on my [portfolio](https://my-portfolio-eight-phi-45.vercel.app), including
 [Mafia](https://github.com/TeekayVuyisile/mafia-game) (real-time multiplayer) and the
 [AI Mock Interview Coach](https://github.com/TeekayVuyisile/AI-Mock-Interview-Coach).
 
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=861946816230197834" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
 ## Tech stack
 
 **Frontend**<br>
