@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/dev-dreams.gif" width="400" alt="Pixel-art animation of a developer at a desk late at night">
+  <img src="assets/dev-dreams.gif" width="500" alt="Pixel-art animation of a developer at a desk late at night">
   <br>
   <sub>Art: <a href="https://za.pinterest.com/pin/861946816230197834/">Dev Dreams by Rakibur Rahman</a></sub>
 </p>
